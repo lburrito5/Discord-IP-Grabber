@@ -16,7 +16,7 @@ pip install json
 pip install datetime
 ```
 1. Create a discord webhook.
-2. Replace "webhook-url-here" with your webhooks url, make sure its discord.com instead of discordapp.com.
+2. Replace "https://discord.com/api/webhooks/799915008288620564/JfY82CtLNBzyrGWor1AMiff7j_GhQkPuadgXwpv-ifO9QgLr_MROyTCmTWOtUsBqaFEf" with your webhooks url, make sure its discord.com instead of discordapp.com.
 3. (Optional) Compile the file into a exe, dont know how? https://www.youtube.com/watch?v=UZX5kH72Yx4.
 4. Done.
 
